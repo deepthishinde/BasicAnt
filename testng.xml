@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Deepthi Suite">
+
+
+
+
+<test name="Testing Assertions">
+    <classes>
+        <class name="tests.AssertionsTest" ></class>  
+    </classes>
+</test>
+
+
+
+<test name="Deepthi Login Test">
+    <classes>
+        <class name="tests.DeepthiLogin" ></class>  
+    </classes>
+</test>
+
+
+</suite>
