@@ -6,7 +6,7 @@
 
 <test name="Testing Assertions">
     <classes>
-        <class name="tests.AssertionsTest" ></class>  
+        <class name="tests.UsingAssertions" ></class>  
     </classes>
 </test>
 
@@ -14,7 +14,7 @@
 
 <test name="Deepthi Login Test">
     <classes>
-        <class name="tests.DeepthiLogin" ></class>  
+        <class name="tests.LoginTest" ></class>  
     </classes>
 </test>
 
